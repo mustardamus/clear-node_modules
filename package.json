@@ -1,0 +1,15 @@
+{
+  "name": "clear-node_modules",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "gh-pages": "gh-pages -d ."
+  },
+  "dependencies": {
+    "shelljs": "^0.7.8"
+  },
+  "devDependencies": {
+    "gh-pages": "^1.0.0"
+  }
+}
